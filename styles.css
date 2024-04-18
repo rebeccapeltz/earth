@@ -52,19 +52,18 @@
     /* margin-bottom: auto; */
   /* } */
   @media (max-width: 750px) {
-     /* #video-bg { display: none; }
-   body {
+     /* #video-bg { display: none; } */
+   /* body {
       background: url("./earth.png") no-repeat;
       background-size: cover;
     } */
     .title {
         align-items: center;
-        margin-right: 0;
     }
     .text-content {
         width: 80%;
         font-size: 1.5rem;
-
+        padding: 1rem;
     }
   }
   

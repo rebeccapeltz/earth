@@ -1,0 +1,72 @@
+#video-bg {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    /* right: 0; */
+    top: 0;
+    /* bottom: 0; */
+    z-index: -1;
+  }
+
+  /* main {
+    padding-bottom: 3rem;
+  } */
+  .title {
+    /* color: rgb(0, 172, 193); */
+    color: rgb(255, 249, 196);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+    height: 90vh;
+    margin-right: 1rem;
+  }
+  .text-content {
+    border-radius: 20px;
+    /* background-color: rgba(255, 249, 196,0.5); */
+    background-color: rgba(0,151,267,0.5);
+
+
+    font-family: "Noto Sans", sans-serif;
+    font-weight: bold;
+    /* text-align: center; */
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: flex-end; */
+    /* margin: .5rem auto; */
+    font-size: 3rem;
+  }
+  /* h1 { */
+    /* font-size: 7rem;  */
+    /* margin: 1rem; */
+    /* margin-top: 2vh; */
+    /* margin-bottom: auto; */
+  /* } */
+  /* h2 {  */
+    /* margin: 1rem; */
+    /* font-size: 3rem; */
+    /* margin-bottom: auto; */
+  /* } */
+  @media (max-width: 750px) {
+    #video-bg { display: none; }
+    body {
+      background: url("./earth.png") no-repeat;
+      background-size: cover;
+    }
+    .title {
+        align-items: center;
+        margin-right: 0;
+    }
+    .text-content {
+        width: 80%;
+        font-size: 1.5rem;
+
+    }
+  }
+  
+  
+  

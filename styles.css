@@ -52,8 +52,8 @@
     /* margin-bottom: auto; */
   /* } */
   @media (max-width: 750px) {
-    #video-bg { display: none; }
-    /* body {
+     /* #video-bg { display: none; }
+   body {
       background: url("./earth.png") no-repeat;
       background-size: cover;
     } */

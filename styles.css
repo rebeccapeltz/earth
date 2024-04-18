@@ -53,10 +53,10 @@
   /* } */
   @media (max-width: 750px) {
     #video-bg { display: none; }
-    body {
+    /* body {
       background: url("./earth.png") no-repeat;
       background-size: cover;
-    }
+    } */
     .title {
         align-items: center;
         margin-right: 0;

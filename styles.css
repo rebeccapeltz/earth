@@ -84,7 +84,7 @@ p > a {
   cursor: pointer;
   border-radius: 3px;
 }
-@media (max-width: 768px) {
+@media (max-width: 750px) {
   /* #video-bg {
       display: none;
     } */

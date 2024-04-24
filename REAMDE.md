@@ -1,6 +1,8 @@
-# Earth Day Challenge with JaavaScript, CSS
+# Earth Day Dev.to Front End Challenge with JavaScript, CSS
 
-Inserting a video or image of Earth to provide a background.
+Inserting a video or image of Earth using JavaScript to provide a background.
+
+![Earth Day Challenge](./earthday-challenge.png)
 
 ## Credit
 

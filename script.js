@@ -28,14 +28,3 @@ window.addEventListener("load", (e) => {
     body.style.backgroundSize = "cover";
   }
 });
-// width: 100vw;
-//   height: 100vh;
-//   object-fit: cover;
-//   position: fixed;
-//   left: 0;
-//   bottom: 0;
-//   top: 0;
-//   right: 0;
-//   z-index: -1;
-// autoplay loop muted poster='./earth.png'>
-//         <source src='./earth.mp4' type='video/mp4'></source>

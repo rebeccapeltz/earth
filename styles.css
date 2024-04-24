@@ -84,14 +84,7 @@ p > a {
   cursor: pointer;
   border-radius: 3px;
 }
-@media (max-width: 750px) {
-  /* #video-bg {
-      display: none;
-    } */
-  /* body {
-    background: url("./earth-mobile.jpg") no-repeat;
-    background-size: cover;
-  } */
+@media screen and (max-width: 479px) {
   .text-content {
     width: 75%;
     font-size: 1.5rem;
